@@ -1,5 +1,6 @@
 cartopy
 geopy
+libgdal
 mercantile
 pandas
 pillow
