@@ -4,5 +4,5 @@ mercantile
 pandas
 pillow
 pytest
-rasterio
+rasterio==1.0.0
 six
